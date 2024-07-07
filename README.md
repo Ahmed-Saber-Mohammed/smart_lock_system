@@ -35,13 +35,13 @@ Installing `dlib` and `face_recognition` can be challenging, so I wrote a blog f
 
 - [Dlib](https://ahmed-saber.vercel.app/blogs/dlib-install)
 
-- [Face recognition module](link)
+- [Face recognition module](https://ahmed-saber.vercel.app/blogs/Face-recognition-module)
 
-- [gpiozero](link)
+- [gpiozero](https://gpiozero.readthedocs.io/en/stable/installing.html)
 
-- [numpy](link)
+- [numpy](https://numpy.org/install/)
 
-- [openCV](link)
+- [openCV](https://docs.opencv.org/3.4/d2/de6/tutorial_py_setup_in_ubuntu.html)
 
   
 
@@ -62,7 +62,6 @@ Installing `dlib` and `face_recognition` can be challenging, so I wrote a blog f
 
 Due to issues with the `gpiozero` library's servo implementation on Raspberry Pi 5, the servo control is manually handled using LED class [here](https://gist.github.com/Ahmed-Saber-Mohammed/59e9bdd5df5b0cfab5cef587f6c9406a).
 
-  
 
 ## Usage
 
